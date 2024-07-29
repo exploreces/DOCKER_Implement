@@ -34,19 +34,6 @@
    This will successfully create the VPC and its subnet instances in your AWS account.
 
 
-  FOLDER-STRUCTURE
-   /LOGIN_FORM
-  |-- app.py
-  |-- requirements.txt
-  |-- Dockerfile
-  |-- docker-compose.yml
-  |-- templates/
-       |-- register.html
-       |-- login.html
-  |--terraform
-       |--main.tf
-       |--variables.tf
-       |--output.tf
        
 
 
